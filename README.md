@@ -15,7 +15,7 @@ You can also create a text file on your own from any other format, such as PDF. 
 
 >Chapter 1 name.
 >
-> Chapter 1 content goes here.
+> Chapter 1 content goes here.<br/>
 > Next part of the first Chapter.
 > The end of Chapter one.
 >
