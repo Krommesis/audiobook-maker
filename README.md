@@ -4,7 +4,7 @@ This program converts given text file into mp3-audiobook using Google Translate'
 
 #### Running the program:
 
-At first convert your f2-book to plain text:
+At first convert your fb2-book to plain text:
 
 `./fb2_to_txt.py <you_book_path>.fb2`
 
