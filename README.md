@@ -41,5 +41,4 @@ Then run:
 `./convert_book.py --book <book_author - book_title - publish_year>.txt --tts gtts`
 
 For example:
-
 `./convert_book.py -b Edgar\ Allan\ Poe\ -\ Morning\ on\ the\ Wissahiccon\ -\ 2023.txt -s edge -g male`
