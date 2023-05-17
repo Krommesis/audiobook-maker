@@ -16,24 +16,24 @@ You can also create a text file on your own from any other format, such as PDF. 
 >Chapter 1 name.
 >
 > Chapter 1 content goes here.<br/>
-> Next part of the first Chapter.
-> The end of Chapter one.
+> Next part of the first Chapter.<br/>
+> The end of Chapter one.<br/>
 >
->===
+>===<br/>
 >Chapter 3 name.
 >
-> Chapter 2 content goes here.
-> Next part of thesecond Chapter.
-> The end of Chapter two.
+> Chapter 2 content goes here.<br/>
+> Next part of thesecond Chapter.<br/>
+> The end of Chapter two.<br/>
 >
->===
+>===<br/>
 >Chapter 3 name.
 >
-> Chapter 1 content goes here.
-> Next part of the third Chapter.
-> The end of Chapter three.
+> Chapter 1 content goes here.<br/>
+> Next part of the third Chapter.<br/>
+> The end of Chapter three.<br/>
 >
->===
+>===<br/>
 >,,,
 
 Then run:
